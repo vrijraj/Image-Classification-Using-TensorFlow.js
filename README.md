@@ -2,6 +2,8 @@
 
 Model Name: MobileNet 
 
+By using this model you can extract the object in the image.
+
 Load CDNs
 
 
